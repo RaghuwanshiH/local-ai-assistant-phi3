@@ -36,7 +36,7 @@ def chat(message, history):
         return f"Error: {str(e)}"
 
 with gr.Blocks(theme=gr.themes.Soft()) as demo:
-    gr.Markdown("# 🤖 MaNe Offline AI Assistant")
+    gr.Markdown("# 🤖 JARVIS Offline AI Assistant")
     gr.Markdown("**Model:** Microsoft Phi-3 3.8B | **Backend:** Ollama + RTX 3050 | **100% Local**")
     gr.Markdown("*Built by Harsh Raghuwanshi*")
 

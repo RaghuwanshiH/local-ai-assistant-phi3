@@ -5,10 +5,10 @@
 Offline ChatGPT clone running locally on GPU. Blazing fast responses using Phi-3 Mini.
 
 ### 🚀 Live Demo - Temporary
-https://301ff5f802a78f1822.gradio.live
+https://d8ce39c356d95e62d9.gradio.live
 
 **⚠️ Link only works when my laptop is running**  
-*Last online: 2026-05-24. If offline, clone and run locally in 3 mins.*
+*Last online: 2026-05-31. If offline, clone and run locally in 3 mins.*
 
 ![Demo](demo.png)
 
